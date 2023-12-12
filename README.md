@@ -1,18 +1,11 @@
 # app_de_taches
 
-Une application en Flutter et en Dart, qui permet de créer une liste de tâches à faire.
+## Introduction : 
+
+Une application en Flutter, C++ et en Dart, qui permet de créer une liste de tâches à faire. On a un bouton pour ajouter de nouvelles tâches, qui nous demande un titre, une description et un emoticone pour chaque tâche. La couleur est générée aléatoirement à chaque fois. Le projet est de rajouter une possibilité de filtres, d'images, et de choix de la couleur pour chacune des tâches. Il y aurait aussi un système de sauvegarde à créer, afin de sauvegarder les tâches même lorsque l'application se ferme. 
+
 ![image](https://github.com/Jotaro15/application-de-taches/assets/96185189/b4d38d3d-ace6-4774-b9f8-f5a4e175155f)
 
+## Informations supplémentaires : 
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Le projet à vu le jour le 12/12/2023. Développé sur Android Studio, dans le but d'une utilisation strictement privée. 
