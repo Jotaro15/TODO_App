@@ -1,6 +1,8 @@
 # app_de_taches
 
 Une application en Flutter et en Dart, qui permet de créer une liste de tâches à faire.
+![image](https://github.com/Jotaro15/application-de-taches/assets/96185189/b4d38d3d-ace6-4774-b9f8-f5a4e175155f)
+
 
 ## Getting Started
 
